@@ -1,0 +1,29 @@
+table{
+    border:1px solid #37ff00;
+    border-spacing: 12px;
+    background-color: aquamarine;
+
+    table-layout: fixed;
+    width: 100%;
+    empty-cells: hide;
+}
+
+table td{
+    border:3px solid #0c0c0c;
+    text-align: center;
+
+}
+
+.caption {
+    caption-side: top;
+    background-color: aquamarine;
+}
+
+.abbreviated-name {
+    font-size: xxx-large;
+    font-weight: 800;
+}
+
+footer {
+    text-align: center;
+}
