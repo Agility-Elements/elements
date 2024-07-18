@@ -1,15 +1,23 @@
-           
+# Experimental
 
-Experimental
+1. **Based on Experience or Experiment**: Experimental refers to something that is based on, derived from, or guided by direct experience, observation, or scientific experiment, rather than solely on abstract principles or theory. 【1】【2】
 
-Being experimental means that we are in the process of forming a hypothesis and then we are going to test our hypothesis to see whether it's supported by observation ull data. This implies for example that we have control over the environment that the experiments running in and that we were able to make influences in those areas.
+2. **Using New or Untested Methods**: Experimental describes something that involves the use of new, untried, or innovative methods, ideas, substances, or approaches that have not been tested before. 【3】【4】
 
-That may or may not be true we need to determine that some extent which in of itself could be an experiment.
+3. **Intended for Testing and Observation**: Experimental implies that something is at an early, developmental stage and is being tested, observed, and subjected to experiments in order to assess its effects or determine its viability. 【4】【5】
 
-So what we end up with is some careful structuring of experiments with all the expected precautions around running them we have to make sure that we have control variables we have to make sure that we have independence of our experimental variables and we have to be diligent in setting up our experiments and executing them so that we have done it methodically and we have been diligently so that the efficacy of the experiment isn't in doubt and we have to be thorough in the collection of our results.
+4. **Empirical and Evidence-Based**: Experimental knowledge or research is grounded in practical, observable facts and data obtained through direct experience or scientific investigation, rather than solely on abstract reasoning. 【6】【7】
 
-We also have to remind ourselves that in fact we have to be careful in interpreting our results and they might be open to different interpretation.
+5. **Contrasted with Established Practices**: Experimental is often used to distinguish something from standard, established, or traditional practices, methods, or approaches that are more widely accepted and proven. 【5】【8】
 
-This leads to having a greater degree of transparency because our results might be open to question and we want others to be able to provide differing perspectives and points of view on those results so that we can have different interpretations into much healthier ecosystem to work in.
+In summary, "experimental" refers to something that is based on experience, observation, and scientific testing of new or innovative approaches, rather than relying solely on theory or established practices. It implies a focus on empirical, evidence-based investigation and development. 【9】
 
-All of this does depend on the fact that we are in a position to form different hypothesis and typically this is done by asking questions. So questions then take a centre stage in being experimental we are driving our behavior and our work through questions so the questions drive what we do.
+[1] [Experimental Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/experimental)  
+[2] [Experiment Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/experiment)  
+[3] [EXPERIMENTAL | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/experimental)  
+[4] [Experimental - Definition, Meaning & Synonyms - Vocabulary.com](https://www.vocabulary.com/dictionary/experimental)  
+[5] [EXPERIMENTAL definition and meaning | Collins English Dictionary](https://www.collinsdictionary.com/dictionary/english/experimental)  
+[6] [EXPERIMENTAL Definition & Meaning - Dictionary.com](https://www.dictionary.com/browse/experimental)  
+[7] [experimental adjective - Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/definition/english/experimental)  
+[8] [Experimental Definition & Meaning | Britannica Dictionary](https://www.britannica.com/dictionary/experimental)  
+[9] [experimental, adj. & n. meanings, etymology and more](https://www.oed.com/dictionary/experimental_adj)
