@@ -1,17 +1,23 @@
-Cumulative
+# Cumulative
 
- 
+1. **Increasing by Successive Additions**: Cumulative refers to something that is increasing or growing in quantity, strength, or effect through a series of successive additions or gradual steps. 【1】【2】
 
-The idea behind cumulative is that it this the increasing addition of pieces into a larger hole. For example we can make additions repeatedly and then we accumulate more things. So the idea is relatively easy to understand by continually adding to something we can get more of that thing.
+2. **Producing an Accumulating Effect**: Cumulative describes an effect or result that builds up or accumulates over time, becoming greater or more significant through the successive additions or repetition of something. 【3】【4】
 
- 
+3. **Adding Together All Parts**: Cumulative can also mean that all the individual parts or elements are being added together to produce a total or overall result. 【5】【6】
 
-This assumes that what we have is additive the things we're adding together are additive. And in a lot of areas this isn't true and one of them is in software development. What happens with software is the simple addition of more lines of code does not lead automatically to addition of more functionality or for code to fill its user stories.
+4. **Involving Prior Claims or Payments**: In some financial contexts, cumulative refers to interest, dividends, or other payments that, if not paid when due, become a prior claim for future payment. 【7】
 
- 
+5. **Contrasted with Isolated or Immediate Effects**: Cumulative is often used to distinguish effects or changes that build up over time, rather than being isolated or immediately apparent. 【3】【8】
 
-So this leads us to conclude that the idea of cumulative is a little more deep than we have first thought and that we should pay more attention to it. So what we're really looking at there is we need to think about what we are accumulating to make sure it is additive. And also we need to understand that what we are being asked to do is in itself additive and leads to cumulative behavior. 
+In summary, "cumulative" describes something that increases, accumulates, or adds up through successive iterations or repetitions, producing a greater overall effect or result over time, in contrast to isolated or immediate impacts. 【6】【9】
 
- 
-
-Now reading the previous paragraph you probably realized that's what you want with user stories. You want the user stories to be cumulative. You want the smaller user stories to be additive so that they build up to a larger user story and a usage scenario. And that's the story behind cumulative.
+[1] [Cumulative Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/cumulative)  
+[2] [CUMULATIVE | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/cumulative)  
+[3] [Cumulative effect Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/cumulative%20effect)  
+[4] [Cumulative - Definition, Meaning & Synonyms - Vocabulary.com](https://www.vocabulary.com/dictionary/cumulative)  
+[5] [CUMULATIVE TOTAL definition and meaning - Collins Dictionary](https://www.collinsdictionary.com/dictionary/english/cumulative-total)  
+[6] [Cumulative Definition & Meaning | Britannica Dictionary](https://www.britannica.com/dictionary/cumulative)  
+[7] [CUMULATIVE Definition & Meaning | Dictionary.com](https://www.dictionary.com/browse/cumulative)  
+[8] [Learn about cumulative effects - Open Science and Data Platform](https://osdp-psdo.canada.ca/en/learn-about)  
+[9] [cumulative adjective - Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/definition/english/cumulative)
