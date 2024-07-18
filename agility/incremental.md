@@ -1,21 +1,21 @@
 # Incremental
 
-## Execute in small steps
+1. **Occurring in Small Amounts**: Incremental refers to something that increases or changes in small, regular amounts or degrees, rather than all at once. 【1】【2】
 
-Being incremental means we're going to be doing things in small steps. 
+2. **Gradual and Step-by-Step**: Incremental progress or change happens gradually, in a series of small steps or additions, rather than in a single large change. 【2】【3】
 
-## Consider the result of each increment
+3. **Increasing by Regular Intervals**: Incremental increases or additions occur at regular, consistent intervals, forming a predictable pattern of small changes. 【4】【3】
 
-At the end of each increment we can reflect on how we executed our increment and the results we achieved. 
+4. **Relating to or Involving Increments**: Incremental describes something that is measured, calculated, or occurring in small, discrete units or amounts called "increments". 【4】【5】
 
-## Adapt
+5. **Formal and Technical Term**: The term "incremental" is often used in a more formal, technical context to describe gradual, step-by-step changes or additions. 【6】
 
-Combining increments with a consideration of how we are executing our work gives us a way to adapt our approach and mitigate risks.
+In summary, "incremental" refers to something that increases, changes, or progresses in small, regular amounts or degrees, rather than all at once, representing a gradual, step-by-step process of change or improvement. 【7】【5】
 
-## Deliver Value
-
-We can arrange our work so that each increment delivers value.
-
-## Value can accumulate
-
-Ideally the result of each increment is cumulative; so our latest increment builds on our previous increment.
+[1] [Incremental Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/incremental)  
+[2] [INCREMENTAL | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/incremental)  
+[3] [INCREMENTALLY | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/incrementally)  
+[4] [Increment Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/increment)  
+[5] [incremental adjective - Definition, pictures, pronunciation and usage ...](https://www.oxfordlearnersdictionaries.com/definition/english/incremental)  
+[6] [INCREMENTAL definition and meaning | Collins English Dictionary](https://www.collinsdictionary.com/dictionary/english/incremental)  
+[7] [Incremental - Definition, Meaning & Synonyms - Vocabulary.com](https://www.vocabulary.com/dictionary/incremental)
