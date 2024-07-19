@@ -1,4 +1,4 @@
-Based on the information provided, the term "accommodating" can be defined as:
+# Accommodating
 
 1. **Willing to Please and Help**: Accommodating individuals are described as eager or willing to help, please, or do favors for others. They are helpful, obliging, and willing to make special efforts to assist. 【1】【2】
 
