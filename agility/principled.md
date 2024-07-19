@@ -1,3 +1,5 @@
+# Principled
+
 In the context of Agile, the term "principled" refers to the set of guiding values and beliefs that underpin the Agile methodology. Some key aspects of being "principled" in the Agile context include:
 
 1. **Adherence to Agile Principles**: Agile teams and organizations are expected to adhere to the 12 core Agile principles, which serve as a framework for delivering value through iterative and collaborative work. 【1】【2】

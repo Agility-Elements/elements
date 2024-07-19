@@ -1,3 +1,5 @@
+# Spectral
+
 Based on the available information, in the context of Agile, "spectral thinking" refers to the concept of viewing Agile as a spectrum or continuum, rather than a binary state of being "Agile" or "not Agile". Some key aspects of spectral thinking in the Agile context include:
 
 1. **Agile is a Broad Spectrum**: The information suggests that "Agile is a broad church" and includes a wide range of tools, techniques, and approaches. 【1】

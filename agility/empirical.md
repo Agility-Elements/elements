@@ -1,4 +1,4 @@
-Based on the information provided in the passages, the term "empirical" can be defined as:
+# Empirical
 
 1. **Based on Observation and Experience**: Empirical refers to something that is based on, derived from, or guided by direct observation, experiment, or experience, rather than solely on abstract principles or theory. 【1】【2】
 

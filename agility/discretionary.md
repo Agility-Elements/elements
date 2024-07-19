@@ -1,4 +1,4 @@
-Based on the information provided, the term "discretionary" can be defined as:
+# Discretionary
 
 1. **Left to Individual Choice or Judgment**: Discretionary refers to things that are left to the individual's own choice, decision, or discretion, rather than being fixed by rules or regulations. 【1】【2】
 

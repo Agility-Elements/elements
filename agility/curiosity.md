@@ -1,4 +1,4 @@
-In the context of Agile, "curiosity" can be defined as:
+# Curiosity
 
 1. **Driving Continuous Improvement**: Curiosity is seen as a key driver for Agile teams to continuously improve their processes, practices, and ways of working. 【1】【2】
 

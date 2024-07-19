@@ -1,3 +1,5 @@
+# Timebox
+
 In the context of Agile, a "timebox" is defined as:
 
 1. **A fixed period of time**: A timebox is a pre-determined, fixed duration of time, usually ranging from a few hours to a few weeks. 【1】【2】

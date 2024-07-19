@@ -1,4 +1,4 @@
-Based on the information provided in the passages, the term "feedback" can be defined as:
+# Feedback
 
 1. **Information about Performance or a Product**: Feedback refers to information, opinions, or reactions that provide an idea of whether something, such as a product or someone's work, is good or liked. 【1】【2】
 

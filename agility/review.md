@@ -1,4 +1,4 @@
-Based on the information provided in the passages, the term "review" can be defined as:
+# Review
 
 1. **Examination or Inspection**: A review is an act of carefully looking at or examining the quality, condition, or state of something or someone. It involves a formal, official, or detailed inspection. 【1】【2】
 

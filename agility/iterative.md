@@ -1,4 +1,4 @@
-Based on the information provided in the passages, the term "iterative" can be defined as:
+# Iterative
 
 1. **Involving Repetition**: Iterative refers to a process or method that involves repetition, where something is done again and again. 【1】【2】
 

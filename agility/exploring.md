@@ -1,4 +1,4 @@
-Based on the information provided in the passages, the term "exploring" can be defined as:
+# Exploring
 
 1. **Investigating and Examining**: Exploring refers to the act of investigating, studying, or examining something in a careful, thorough manner to learn more about it. 【1】【2】
 

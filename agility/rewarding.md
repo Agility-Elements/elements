@@ -1,3 +1,5 @@
+# Rewarding
+
 In the context of Agile, "rewarding" refers to the practices and approaches used to recognize, motivate, and incentivize Agile teams and individuals. Some key aspects of rewarding in the Agile context include:
 
 1. **Aligning with Agile Principles**: Agile reward systems should be designed to reinforce the Agile values and principles, such as collaboration, adaptability, and continuous improvement. 【1】【2】

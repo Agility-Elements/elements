@@ -1,4 +1,4 @@
-Based on the additional information provided, in the context of Agile, the term "intrepid" can be defined as:
+# Intrepid
 
 1. **Fearless and Courageous**: Intrepid Agile team members are characterized by a resolute fearlessness, fortitude, and endurance in the face of challenges. 【1】【2】
 

@@ -1,3 +1,5 @@
+# Agreeable
+
 In the context of Agile, the term "agreeable" refers to a set of personality traits and behaviors that are considered beneficial for Agile team members and the overall success of Agile projects. Some key aspects of being "agreeable" in the Agile context include:
 
 1. **Trusting the Agile Process**: Agreeable Agile team members are those who trust the Agile process and are willing to embrace its principles, even if they differ from traditional approaches. 【1】

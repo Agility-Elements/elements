@@ -1,4 +1,4 @@
-Based on the information provided in the passages, the term "synchronized" can be defined as:
+# Synchronized
 
 1. **Happening or Occurring Together**: Synchronized means that two or more things are happening, moving, or operating at the same time, in unison, or in perfect agreement. 【1】【2】
 

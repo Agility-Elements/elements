@@ -1,4 +1,4 @@
-In the context of Agile, the "customer" is defined as:
+# Customer
 
 1. **The primary stakeholder**: The customer is the primary stakeholder who has the best knowledge about the product and its requirements. 【1】
 
