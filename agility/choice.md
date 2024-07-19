@@ -1,4 +1,4 @@
-Choice
+# Choice
 
 In the context of Agile, the concept of "choice" refers to the explicit decision points and options that Agile teams have throughout the development process. Some key aspects of choice in the Agile context include:
 
