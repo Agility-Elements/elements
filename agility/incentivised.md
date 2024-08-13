@@ -1,4 +1,4 @@
-# Feedback
+# Incentivised
 
 1. **Provided with an Incentive**: To incentivise or incentivise means to provide someone with an incentive, motivation, or reason to take a desired action. 【1】【2】
 
